@@ -1,4 +1,4 @@
-# 🩺 Aplicação de Agendamento de Consultas com APIs REST
+# 🩺 Aplicação de Agendamento de Consultas Com APIs REST
 
 Este repositório contém a implementação de uma aplicação para **agendamento de consultas** com APIs REST, focada na parte de **cadastro de pacientes**.
 
